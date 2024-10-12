@@ -1,0 +1,98 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "some url here",
+      "name": "LTT screwdriver",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": "2",
+      "imageUrl": "some url here",
+      "name": "MKBHD plushy",
+      "count": 2,
+      "size": {
+        "width": 100,
+        "height": 100
+      },
+      "weight": "100g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": 97858139290659570000,
+      "name": "knobs",
+      "count": 33,
+      "imageUrl": "",
+      "size": {
+        "height": 12,
+        "width": 10
+      },
+      "weight": "",
+      "comments": []
+    },
+    {
+      "id": 79834943209588210000,
+      "name": "knobs",
+      "count": 33,
+      "imageUrl": "",
+      "size": {
+        "height": 12,
+        "width": 10
+      },
+      "weight": "",
+      "comments": []
+    },
+    {
+      "id": 59449908638090630000,
+      "name": "knobs",
+      "count": 33,
+      "imageUrl": "",
+      "size": {
+        "height": 12,
+        "width": 10
+      },
+      "weight": "",
+      "comments": []
+    },
+    {
+      "id": 70923964031059490000,
+      "name": "knobs",
+      "count": 33,
+      "imageUrl": "",
+      "size": {
+        "height": 12,
+        "width": 10
+      },
+      "weight": "",
+      "comments": []
+    },
+    {
+      "id": 84342625244714070000,
+      "name": "",
+      "imageUrl": "",
+      "size": {},
+      "weight": "",
+      "comments": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "3",
+      "productId": 1,
+      "description": "some text here",
+      "date": "14:00 22.08.2021"
+    }
+  ]
+}

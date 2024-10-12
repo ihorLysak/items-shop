@@ -1,6 +1,6 @@
 import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
 
-import { type PageName } from "../../libs/types/types";
+import { type PageName } from "../../../libs/types/types";
 
 interface State {
   currentPage: PageName;
